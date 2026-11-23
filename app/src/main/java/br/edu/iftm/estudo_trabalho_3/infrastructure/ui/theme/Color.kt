@@ -1,4 +1,4 @@
-package br.edu.iftm.estudo_trabalho_3.ui.theme
+package br.edu.iftm.estudo_trabalho_3.infrastructure.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

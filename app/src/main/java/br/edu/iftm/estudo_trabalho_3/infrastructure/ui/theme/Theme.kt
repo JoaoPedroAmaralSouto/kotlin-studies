@@ -1,6 +1,5 @@
-package br.edu.iftm.estudo_trabalho_3.ui.theme
+package br.edu.iftm.estudo_trabalho_3.infrastructure.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

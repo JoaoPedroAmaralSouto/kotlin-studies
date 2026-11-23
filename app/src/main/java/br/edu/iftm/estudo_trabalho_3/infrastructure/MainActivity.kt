@@ -1,4 +1,4 @@
-package br.edu.iftm.estudo_trabalho_3
+package br.edu.iftm.estudo_trabalho_3.infrastructure
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import br.edu.iftm.estudo_trabalho_3.ui.theme.Estudo_Trabalho_3Theme
+import br.edu.iftm.estudo_trabalho_3.infrastructure.ui.theme.Estudo_Trabalho_3Theme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

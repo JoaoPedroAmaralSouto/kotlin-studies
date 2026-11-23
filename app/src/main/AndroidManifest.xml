@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Estudo_Trabalho_3">
         <activity
-            android:name=".MainActivity"
+            android:name=".infrastructure.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.Estudo_Trabalho_3"
