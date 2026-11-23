@@ -20,7 +20,7 @@ interface KidDAO {
     suspend fun search_by_cpf(cpf: String): Kid?
 
     @Query("SELECT * FROM kid_table ORDER BY kid_name")
-    suspend fun search_all(): Flow<List<Kid>?>
+    fun search_all(): Flow<List<Kid>?>
 
     @Update
     suspend fun update(kid: Kid)
